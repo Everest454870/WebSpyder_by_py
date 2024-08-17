@@ -1,4 +1,4 @@
-# python网络爬虫实战
+# python爬虫学习
 目标网页为："https://www.che168.com/beijing/list/" ，该网站上北京地区的在售二手车信息。
 ## 一、爬虫部分
 （1）调用selenium库中的webdriver包，访问网站，获取网页源代码；
