@@ -8,7 +8,7 @@
 （3）将处理后的字符串转换为Dataframe对象，利用pandas库将其写入.csv文件
 ## 二、数据可视化
 
-在这一部分中，主要调用pandas库和matplotlib库。
+  在这一部分中，主要调用pandas库和matplotlib库。
 其中，从pandas库中调用read_csv()函数，将.csv文件读取为dataframe数据类型。
 再调用matplotlib库进行绘图操作：
 
