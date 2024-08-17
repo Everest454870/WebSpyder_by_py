@@ -2,7 +2,9 @@
 目标网页为："https://www.che168.com/beijing/list/" ，该网站上北京地区的在售二手车信息。
 ## 一、爬虫部分
 （1）调用selenium库中的webdriver包，访问网站，获取网页源代码；
+
 （2）使用BeautifulSoup包和正则表达式对源代码字符串进行处理；
+
 （3）将处理后的字符串转换为Dataframe对象，利用pandas库将其写入.csv文件
 ## 二、数据可视化
 在这一部分中，主要调用pandas库和matplotlib库。
